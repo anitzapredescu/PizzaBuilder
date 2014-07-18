@@ -1,0 +1,5 @@
+c:\users\ana.predescu\documents\visual studio 2012\Projects\PizzaBuilder\PizzaBuilder\bin\PizzaBuilder.dll
+c:\users\ana.predescu\documents\visual studio 2012\Projects\PizzaBuilder\PizzaBuilder\bin\PizzaBuilder.pdb
+c:\users\ana.predescu\documents\visual studio 2012\Projects\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.csprojResolveAssemblyReference.cache
+c:\users\ana.predescu\documents\visual studio 2012\Projects\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.dll
+c:\users\ana.predescu\documents\visual studio 2012\Projects\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.pdb
